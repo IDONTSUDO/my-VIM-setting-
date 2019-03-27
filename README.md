@@ -11,3 +11,8 @@ PlugInstall
 cd ~/.vim/plugged/YouCompleteMe/
 
 python3 install.py --all
+
+# dependencies
+
+sudo apt install build-essential cmake3 python3-dev
+
