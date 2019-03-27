@@ -16,3 +16,6 @@ python3 install.py --all
 
 sudo apt install build-essential cmake3 python3-dev
 
+# extensions
+
+https://vimawesome.com/
